@@ -351,6 +351,10 @@ section {
     flex-direction: column;
 }
 
+.text-container {
+    text-align: center;
+}
+
 .article-container {
     margin-top: 1rem;
     text-align: initial;
